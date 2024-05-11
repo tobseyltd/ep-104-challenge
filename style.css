@@ -184,9 +184,9 @@ footer {
                 text-decoration: underline;
             }
         }
-
+        
         /* Copyright */
-        span {
+        > span {
             width: 20%;
             display: flex;
             justify-content: end;
