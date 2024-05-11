@@ -5,5 +5,5 @@ In dieser Challenge wendest du die Basics von Nested CSS an. Nutze das Wissen au
 
 ⚠️ Wichtig:
 
-👉 Meine Lösung findest du im Solution Branch
+👉 Meine Lösung findest du im Solution Branch <br />
 👉 Versuche aber ohne meine Lösung die Challenge zu meistern
